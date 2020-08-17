@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ReactJS ⚛ and Django Python 🐍
 - 💻 Fun fact: Music, videogames, movies and tech lover!
 <br />
-- 🎧 Hardcore, Punk, Rap, Pop and many many more!
+- 🎧 Hardcore, Punk, Rap, Pop and many many more!<br />
 - 🎮 Final Fantasy VII, Dark Souls, Hyper Scape!
 
 ### Spotify 🎧
