@@ -5,10 +5,10 @@
 ## I'm a full-stack developer in constant evolution!
 - 🦾 Working at Guide121/SP/Brazil;
 - 🎓 Studying at Feevale University;
-- 🌱 Learning ReactJS ⚛ and Django Python 🐍;
+- 🌱 Always learning something new;
 - 💻 Fun fact: Music, videogames, movies and tech lover!
 - 🎧 Hardcore, Punk, Rap, Pop and many many more!
-- 🎮 Final Fantasy VII, Dark Souls and Fortnite!
+- 🎮 Final Fantasy VII, Dark Souls and Cyberpunk 2077!
 
 ### Spotify 🎧
 [![Spotify](https://spotify-playing.fredimaihub.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fredi.maihub)
