@@ -1,7 +1,5 @@
 ### Hi, I'm Fredi 😬
 
-[![Website](https://img.shields.io/website?label=fredimaihub.dev&style=for-the-badge&url=https%3A%2F%2Ffredimaihub.dev)](https://fredimaihub.dev)
-
 ## I'm a full-stack developer in constant evolution!
 - 🦾 Working as a Chatbot Developer @ Mundiale;
 - 🎓 Studying at Feevale University;
