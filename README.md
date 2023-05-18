@@ -1,12 +1,7 @@
 ### Hi, I'm Fredi 😬
 
 ## I'm a full-stack developer in constant evolution!
-- 🦾 Working as a Chatbot Developer @ Mundiale;
-- 🎓 Studying at Feevale University;
-- 🌱 Always learning something new;
-- 💻 Fun fact: Music, videogames, movies and tech lover!
-- 🎧 Hardcore, Punk, Rap, Pop and many many more!
-- 🎮 Final Fantasy VII, Dark Souls and Cyberpunk 2077!
+- 🦾 Working as a Chatbot Developer @ Unidas;
 
 ### Spotify 🎧
 [![Spotify](https://spotify-playing.fredimaihub.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fredi.maihub)
